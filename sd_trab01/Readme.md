@@ -30,6 +30,7 @@ d) Teste sua implementação utilizando como destino um servidor remoto (TCP).
 
 > [!NOTE]
 > Questão opcional.
+
 **3. Implemente um serviço remoto através da comunicação cliente servidor. A co
 municação entre cliente e servidor deve ser implementada via sockets (TCP ou UDP) que
 trocam fluxos de bytes.**
@@ -56,7 +57,7 @@ comunicação <ins>*unicast*</ins> com API de sockets TCP em Java, enquanto que 
 
 Para a representação externa de dados nas chamadas remotas (métodos, argumentos e resultados), sugere se que seja implementada através de [protocol buffers][2]. Contudo, versões em XML ou JSON também são aceitas.
 
-![Figura 1: Arquitetura da aplicação](./fig1_arquitetura_aplicacao.png)
+![Figura 1: Arquitetura da aplicação](/fig1_arquitetura_aplicacao.png)
 
 [1]: https://docs.google.com/document/d/195cAAxlmFoZ_mAgTuPGF7eD28e8-5zBA8_rSiGol59I/edit?tab=t.0
 [2]: https://protobuf.dev/programming-guides/proto3/
