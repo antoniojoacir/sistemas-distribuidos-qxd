@@ -1,8 +1,6 @@
-**Trabalho 1 – Comunicação entre processos (Capítulo 4)**
+# **Trabalho 1 – Comunicação entre processos (Capítulo 4)**
 
----
-
-**Cada estudante deve definir um serviço remoto, [sugestões][1].**
+## **Cada estudante deve definir um serviço remoto, [sugestões][1].**
 
 **1. Por exemplo, um registro de uma pessoa é constituído de um nome, seu CPF e
 sua idade. Crie uma classe de acordo com o serviço escolhido que represente esta infor
