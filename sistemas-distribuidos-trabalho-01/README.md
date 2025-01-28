@@ -55,7 +55,7 @@ comunicação <ins>*unicast*</ins> com API de sockets TCP em Java, enquanto que 
 
 Para a representação externa de dados nas chamadas remotas (métodos, argumentos e resultados), sugere se que seja implementada através de [protocol buffers][2]. Contudo, versões em XML ou JSON também são aceitas.
 
-![Figura 1: Arquitetura da aplicação](.fig1.jpg)
+![Figura 1: Arquitetura da aplicação](./assets/template-urna.jpg)
 
 [1]: https://docs.google.com/document/d/195cAAxlmFoZ_mAgTuPGF7eD28e8-5zBA8_rSiGol59I/edit?tab=t.0
 [2]: https://protobuf.dev/programming-guides/proto3/
