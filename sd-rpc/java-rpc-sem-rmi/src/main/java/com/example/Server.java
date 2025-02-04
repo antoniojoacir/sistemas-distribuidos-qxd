@@ -16,7 +16,7 @@ public class Server {
                 Socket clientSocket = serverSocket.accept();
                 System.out.println("Client conectado!");
                 try (BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
-                        PrintWriter out = new PrintWriter(clientSocket.getOutputStream())) {
+                        PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true)) {
                     String input = in.readLine();
                     System.out.println("Requisição recebida " + input);
 
