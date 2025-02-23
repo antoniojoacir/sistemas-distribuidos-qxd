@@ -1,0 +1,11 @@
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/Server.java
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/model/Hotel.java
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/HotelServiceImpl.java
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/model/Motel.java
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/ClientRMI.java
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/HotelService.java
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/model/Reserva.java
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/model/Pousada.java
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/model/Endereco.java
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/model/Cliente.java
+/home/jsf/personal/sistemas-distribuidos-qxd/sd-02-rmi/rmi-example/src/main/java/com/example/model/MeiosDeHospedagem.java

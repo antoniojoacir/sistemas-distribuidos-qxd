@@ -1,0 +1,11 @@
+com/example/HotelService.class
+com/example/ClientRMI.class
+com/example/model/Reserva.class
+com/example/model/MeiosDeHospedagem.class
+com/example/model/Pousada.class
+com/example/Server.class
+com/example/model/Endereco.class
+com/example/model/Cliente.class
+com/example/model/Hotel.class
+com/example/HotelServiceImpl.class
+com/example/model/Motel.class
